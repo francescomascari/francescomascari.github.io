@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-This is Francesco Mascar's home on the web!
+This is Francesco Mascari's home on the web!
