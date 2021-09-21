@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Francesco Mascari"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Francesco Mascari"
 description              : &description "personal description"
 url                      : https://francescomascari.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
