@@ -13,6 +13,6 @@ author_profile: true
 
 ## Other teaching experiences
 
-* Mathematics Tutor for Refugee students \n
+* word-wrap: Mathematics Tutor for Refugee students break-word;
   Foundation of Mathematics @ University of Trento, Trento, Italy
 * Mathematics Tutor for Undergraduate students
