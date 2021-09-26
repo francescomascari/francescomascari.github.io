@@ -11,49 +11,64 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* **PhD in Statistics and Computer Science**, Bocconi University, Milan, Italy, ongoing
+* **MSc in Mathematics for Life and Data Sciences**, _cum laude_, University of Trento, Trento, Italy, 2021
+* **BSc in Mathematics**, _cum laude_, University of Bologna, Bologna, Italy, 2018
+* **High School Diploma in Scientific Studies**, _cum laude_, Liceo Scientifico Copernico, Bologna, Italy, 2015
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Fall-winter 2020: Research Intern
+  * École Polytechnique, Palaiseau, France
+  * Supervisor: Dr. Giovanni Conforti
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+Other activities
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Spring 2021: Reading group
+  * _"A course on rough paths"_ by P.K. Fritz and M. Hairer
+* Winter-spring 2018: Erasmus+ Study
+  * Cardiff University, Cardiff, Wales, UK
 
+Languages
+======
+* **Italian:** Native speaker
+* **English:** C1
+  * _IELTS Academic 7.0_, issued in 2016
+	* _Cambridge First Certificate (FCE)_, issued in 2015
+* **French:** A2
+
+IT Skills
+======
+* **Coding:** Good level
+  * R, Python, MatLab, SQL, Julia
+* **Office Suite:** Good level
+  * Word, Excel, Power Point, Access, Outlook, OneDrive
+  * _ECDL Full Standard_, issued in 2015
+* **Git:** Basic
+
+<!--
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
+
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
+-->
+
+Volunteering
 ======
-* Currently signed in to 43 different slack teams
+* **Student representative** in the Department of Mathematics
+  * University of Bologna, Bologna, Italy
+* **Student representative** in the School Board
+  * Liceo Scientifico Copernico, Bologna, Italy
