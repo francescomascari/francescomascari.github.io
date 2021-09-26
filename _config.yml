@@ -81,6 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Francesco Mascari"
+  pronouns         : "he/him"
   avatar           : "profile.png"
   bio              : "PhD Student in Statistics and Computer Science at Bocconi University"
   location         : "Milan, Italy"
