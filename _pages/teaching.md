@@ -13,6 +13,6 @@ author_profile: true
 
 ## Other teaching experiences
 
-* word-wrap: Mathematics Tutor for Refugee students break-word;
-  Foundation of Mathematics @ University of Trento, Trento, Italy
-* Mathematics Tutor for Undergraduate students
+* Mathematics Tutor in Foundations for refugee students @ University of Trento, Trento, Italy, 2020
+* Mathematics Tutor in Probability and Statistics for undergraduate students @ University of Trento, Trento, Italy, 2020
+* Mathematics Tutor in Calculus for undergraduate students @ University of Trento, Trento, Italy, 2019
