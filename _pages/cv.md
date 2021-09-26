@@ -44,7 +44,7 @@ Languages
 * **Italian:** Native speaker
 * **English:** C1
   * _IELTS Academic 7.0_, issued in 2016
-	* _Cambridge First Certificate (FCE)_, issued in 2015
+  * _Cambridge First Certificate (FCE)_, issued in 2015
 * **French:** A2
 
 IT Skills
