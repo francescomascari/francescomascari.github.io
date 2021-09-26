@@ -31,7 +31,7 @@ Other activities
 * Spring 2021: **Reading group** of _"A course on rough paths"_ by P.K. Fritz and M. Hairer
 * Sep 2019: **Summer School** in Geometric Statistics
   * University of Toulouse III, Toulouse, France
-* Winter - Spring 2018: **Erasmus+ Study**
+* Winter - spring 2018: **Erasmus+ Study**
   * Cardiff University, Cardiff, Wales, UK
 
 Languages
