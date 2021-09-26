@@ -13,6 +13,9 @@ author_profile: true
 
 ## Other teaching experiences
 
-* Mathematics Tutor in Foundations for refugee students @ University of Trento, Trento, Italy, 2020
-* Mathematics Tutor in Probability and Statistics for undergraduate students @ University of Trento, Trento, Italy, 2020
-* Mathematics Tutor in Calculus for undergraduate students @ University of Trento, Trento, Italy, 2019
+* Mathematics Tutor in Foundations of Mathematics for refugee students
+  * University of Trento, Trento, Italy, 2020
+* Mathematics Tutor in Probability and Statistics for undergraduate students
+  * University of Trento, Trento, Italy, 2020
+* Mathematics Tutor in Calculus for undergraduate students
+  * University of Trento, Trento, Italy, 2019
