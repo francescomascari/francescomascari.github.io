@@ -20,7 +20,7 @@ Education
   * Supervisor: Dr. Carlo Orrieri, Dr. Giovanni Conforti
 * 2015 - 2018: **BSc in Mathematics**, _cum laude_
   * University of Bologna, Bologna, Italy
-  * Thesis: _“Linear Matrix Equation”_
+  * Thesis: _“Linear Matrix Equations”_
   * Supervisor: Prof. Valeria Simoncini
 * 2010 - 2015: **High School Diploma in Scientific Studies**, _cum laude_
   * Liceo Scientifico Copernico, Bologna, Italy
