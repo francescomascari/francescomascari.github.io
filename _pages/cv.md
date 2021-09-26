@@ -11,26 +11,26 @@ redirect_from:
 
 Education
 ======
-* **PhD in Statistics and Computer Science**
-  * Bocconi University, Milan, Italy, ongoing
-* **MSc in Mathematics for Life and Data Sciences**, _cum laude_
-  * University of Trento, Trento, Italy, 2021
-* **BSc in Mathematics**, _cum laude_
-  * University of Bologna, Bologna, Italy, 2018
-* **High School Diploma in Scientific Studies**, _cum laude_
-  * Liceo Scientifico Copernico, Bologna, Italy, 2015
+* 2021 - ongoing: **PhD in Statistics and Computer Science**
+  * Bocconi University, Milan, Italy
+* 2018 - 2021: **MSc in Mathematics for Life and Data Sciences**, _cum laude_
+  * University of Trento, Trento, Italy
+* 2015 - 2018: **BSc in Mathematics**, _cum laude_
+  * University of Bologna, Bologna, Italy
+* 2010 - 2015: **High School Diploma in Scientific Studies**, _cum laude_
+  * Liceo Scientifico Copernico, Bologna, Italy
 
 Work experience
 ======
-* Fall-winter 2020: Research Intern
+* Fall - winter 2020: **Research Intern**
   * École Polytechnique, Palaiseau, France
   * Supervisor: Dr. Giovanni Conforti
 
 Other activities
 ======
-* Spring 2021: Reading group
+* Spring 2021: **Reading group**
   * _"A course on rough paths"_ by P.K. Fritz and M. Hairer
-* Winter-Spring 2018: Erasmus+ Study
+* Winter - Spring 2018: **Erasmus+ Study**
   * Cardiff University, Cardiff, Wales, UK
 
 Languages
@@ -72,7 +72,7 @@ Teaching
 
 Volunteering
 ======
-* **Student representative** in the Department of Mathematics
+* 2016 - 2018: **Student representative** in the Department of Mathematics
   * University of Bologna, Bologna, Italy
-* **Student representative** in the School Board
+* 2013 - 2014: **Student representative** in the School Board
   * Liceo Scientifico Copernico, Bologna, Italy
