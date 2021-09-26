@@ -15,8 +15,13 @@ Education
   * Bocconi University, Milan, Italy
 * 2018 - 2021: **MSc in Mathematics for Life and Data Sciences**, _cum laude_
   * University of Trento, Trento, Italy
+  * Thesis: _“A Micro-macro Connection: The Valuable Relation between Large Deviations
+				for Diffusion Processes and Wasserstein Gradient Flow”_
+  * Supervisor: Dr. Carlo Orrieri, Dr. Giovanni Conforti
 * 2015 - 2018: **BSc in Mathematics**, _cum laude_
   * University of Bologna, Bologna, Italy
+  * Thesis: _“Linear Matrix Equation”_
+  * Supervisor: Prof. Valeria Simoncini
 * 2010 - 2015: **High School Diploma in Scientific Studies**, _cum laude_
   * Liceo Scientifico Copernico, Bologna, Italy
 
