@@ -11,10 +11,14 @@ redirect_from:
 
 Education
 ======
-* **PhD in Statistics and Computer Science**, Bocconi University, Milan, Italy, ongoing
-* **MSc in Mathematics for Life and Data Sciences**, _cum laude_, University of Trento, Trento, Italy, 2021
-* **BSc in Mathematics**, _cum laude_, University of Bologna, Bologna, Italy, 2018
-* **High School Diploma in Scientific Studies**, _cum laude_, Liceo Scientifico Copernico, Bologna, Italy, 2015
+* **PhD in Statistics and Computer Science**
+  * Bocconi University, Milan, Italy, ongoing
+* **MSc in Mathematics for Life and Data Sciences**, _cum laude_
+  * University of Trento, Trento, Italy, 2021
+* **BSc in Mathematics**, _cum laude_
+  * University of Bologna, Bologna, Italy, 2018
+* **High School Diploma in Scientific Studies**, _cum laude_
+  * Liceo Scientifico Copernico, Bologna, Italy, 2015
 
 Work experience
 ======
@@ -26,7 +30,7 @@ Other activities
 ======
 * Spring 2021: Reading group
   * _"A course on rough paths"_ by P.K. Fritz and M. Hairer
-* Winter-spring 2018: Erasmus+ Study
+* Winter-Spring 2018: Erasmus+ Study
   * Cardiff University, Cardiff, Wales, UK
 
 Languages
