@@ -124,9 +124,9 @@
 .author__pronouns {
   margin: 0;
 
-  @include breakpoint($small) {
+  @include breakpoint($large) {
     margin-top: 0;
-    margin-bottom: 0;
+    margin-bottom: 10px;
   }
 }
 
