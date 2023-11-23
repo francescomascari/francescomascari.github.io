@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Other activities"
+title: " "
 permalink: /other/
 author_profile: true
 ---
