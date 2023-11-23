@@ -2,7 +2,7 @@
 title: "Statistics (30001)"
 collection: teaching
 type: "BSc International Economics and Finance"
-permalink: /teaching/30001_2023
+permalink: https://didattica.unibocconi.it/ts/tsn_anteprima.php?cod_ins=30001&anno=2023&IdPag=
 venue: "Bocconi University"
 date: 2023-01-01
 location: "Milan, Italy"
