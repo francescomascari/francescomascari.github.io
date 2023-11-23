@@ -9,11 +9,11 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Other activities"
-    url: /other/
-
   - title: "Talks"
     url: /talks/    
+
+  - title: "Other activities"
+    url: /other/
 
   #- title: "Portfolio"
   #  url: /portfolio/
