@@ -12,8 +12,8 @@ main:
   - title: "Other activities"
     url: /other/
 
-  #- title: "Talks"
-  #  url: /talks/    
+  - title: "Talks"
+    url: /talks/    
 
   #- title: "Portfolio"
   #  url: /portfolio/
