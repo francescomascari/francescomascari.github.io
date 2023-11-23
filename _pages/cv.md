@@ -15,12 +15,12 @@ Education
   * Bocconi University, Milan, Italy
 * 2018 - 2021: **MSc in Mathematics for Life and Data Sciences**, _cum laude_
   * University of Trento, Trento, Italy
-  * Thesis: _“A Micro-macro Connection: The Valuable Relation between Large Deviations
-				for Diffusion Processes and Wasserstein Gradient Flow”_
+  * Thesis: _A Micro-macro Connection: The Valuable Relation between Large Deviations
+				for Diffusion Processes and Wasserstein Gradient Flows_
   * Supervisor: Dr. Carlo Orrieri, Dr. Giovanni Conforti
 * 2015 - 2018: **BSc in Mathematics**, _cum laude_
   * University of Bologna, Bologna, Italy
-  * Thesis: _“Linear Matrix Equations”_
+  * Thesis: _Linear Matrix Equations_
   * Supervisor: Prof. Valeria Simoncini
 * 2010 - 2015: **High School Diploma in Scientific Studies**, _cum laude_
   * Liceo Scientifico Copernico, Bologna, Italy
@@ -33,8 +33,12 @@ Work experience
 
 Other activities
 ======
-* Spring 2021: **Reading group** of _"A course on rough paths"_ by P.K. Fritz and M. Hairer
-* Sep 2019: **Summer School** in Geometric Statistics
+* Jul 2022: **Statistics with Geometry and Topology** in Geometric Statistics
+  * University of Toulouse III, Toulouse, France
+* Jul 2022: **Bocconi Summer School in Advanced Statistics & Probability** in Random Structures and Combinatorial Statistics
+  * Lake Como School of Advanced Studies, Como, Italy
+* Spring 2021: **Reading group** on _A course on rough paths_ by P.K. Fritz and M. Hairer
+* Sep 2019: **Statistics with Geometry and Topology** in Geometric Statistics
   * University of Toulouse III, Toulouse, France
 * Winter - spring 2018: **Erasmus+ Study**
   * Cardiff University, Cardiff, Wales, UK
@@ -54,7 +58,7 @@ IT Skills
 * **Office Suite:** Good level
   * Word, Excel, Power Point, Access, Outlook, OneDrive
   * _ECDL Full Standard_, issued in 2015
-* **Git:** Basic
+* **Git:** Basic level
 
 <!--
 Publications
@@ -78,6 +82,8 @@ Teaching
 
 Volunteering
 ======
+* 2022 - ongoing: **PhD representative** in the Department of Decision Sciences
+  * Bocconi University, Milan, Italy
 * 2016 - 2018: **Student representative** in the Department of Mathematics
   * University of Bologna, Bologna, Italy
 * 2013 - 2014: **Student representative** in the School Board
