@@ -10,7 +10,8 @@ redirect_from:
 
 I am a PhD student in Statistics and Computer Science at [Bocconi University](https://www.unibocconi.it/) in Milan.
 
-# Research Interests
+## Research Interests
 - Bayesian Nonparametrics
-- Reproducing Kernel Hilbert spaces
-- Random measures
+- Reproducing Kernel Hilbert Spaces
+- Wasserstein Distance
+- Random Measures
