@@ -1,10 +1,18 @@
-
+---
+title: "Teaching experience 1"
+collection: teaching
+type: "Undergraduate course"
+permalink: /teaching/2014-spring-teaching-1
+venue: "University 1, Department"
+date: 2014-01-01
+location: "City, Country"
+---
 
 ---
 title: "Statistics (30001)"
 collection: teaching
+type: "BSc International Economics and Finance"
 permalink: /teaching/30001_2023
-type: BSc International Economics and Finance
 venue: "Bocconi University"
 date: 2023-01-01
 location: "Milan, Italy"
