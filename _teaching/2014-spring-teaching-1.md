@@ -1,6 +1,7 @@
 ---
 title: "Statistics (30001)"
 collection: teaching
+permalink: /teaching/30001_2023
 type: BSc International Economics and Finance
 venue: "Bocconi University"
 date: Fall 2023
