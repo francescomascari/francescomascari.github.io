@@ -31,18 +31,6 @@ Work experience
   * École Polytechnique, Palaiseau, France
   * Supervisor: Dr. Giovanni Conforti
 
-Other activities
-======
-* Jul 2022: **Statistics with Geometry and Topology** in Geometric Statistics
-  * University of Toulouse III, Toulouse, France
-* Jul 2022: **Bocconi Summer School in Advanced Statistics & Probability** in Random Structures and Combinatorial Statistics
-  * Lake Como School of Advanced Studies, Como, Italy
-* Spring 2021: **Reading group** on _A course on rough paths_ by P.K. Fritz and M. Hairer
-* Sep 2019: **Statistics with Geometry and Topology** in Geometric Statistics
-  * University of Toulouse III, Toulouse, France
-* Winter - spring 2018: **Erasmus+ Study**
-  * Cardiff University, Cardiff, Wales, UK
-
 Languages
 ======
 * **Italian:** Native speaker
@@ -59,32 +47,3 @@ IT Skills
   * Word, Excel, Power Point, Access, Outlook, OneDrive
   * _ECDL Full Standard_, issued in 2015
 * **Git:** Basic level
-
-<!--
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
--->
-
-Volunteering
-======
-* 2022 - ongoing: **PhD representative** in the Department of Decision Sciences
-  * Bocconi University, Milan, Italy
-* 2016 - 2018: **Student representative** in the Department of Mathematics
-  * University of Bologna, Bologna, Italy
-* 2013 - 2014: **Student representative** in the School Board
-  * Liceo Scientifico Copernico, Bologna, Italy
