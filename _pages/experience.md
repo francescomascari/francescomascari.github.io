@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 Education
-======
+===
 * 2021 - ongoing: **PhD in Statistics and Computer Science**
   * Bocconi University, Milan, Italy
 * 2018 - 2021: **MSc in Mathematics for Life and Data Sciences**, _cum laude_
