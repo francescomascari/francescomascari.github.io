@@ -1,12 +1,10 @@
-<!--
-
 ---
-title: "Mathematics Tutor for Refugee Students"
+title: "Statistics (30001)"
 collection: teaching
-type: Foundations of Mathematics
-venue: "University of Trento"
-date: 2020-02-01
-location: "Trento,Italy"
+type: BSc International Economics and Finance
+venue: "Bocconi University"
+date: Fall 2023
+location: "Milan, Italy"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
@@ -19,5 +17,3 @@ Heading 2
 
 Heading 3
 ======
-
--->
