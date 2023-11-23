@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in Statistics and Computer Science at [Bocconi University](https://www.unibocconi.it/) in Milan.
+I am currently working a PhD student in Statistics and Computer Science at [Bocconi University](https://www.unibocconi.it/) in Milan.
 
 ## Research Interests
 - Bayesian Nonparametrics
