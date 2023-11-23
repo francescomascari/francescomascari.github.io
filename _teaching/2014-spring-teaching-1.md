@@ -4,7 +4,7 @@ collection: teaching
 permalink: /teaching/30001_2023
 type: BSc International Economics and Finance
 venue: "Bocconi University"
-date: "Fall 2023"
+date: 2023
 location: "Milan, Italy"
 ---
 
