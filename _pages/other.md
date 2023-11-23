@@ -12,10 +12,14 @@ Exchange/Visiting
 * Jan - Jun 2018: **Erasmus+ Study**
   * Cardiff University, Cardiff, Wales, UK
  
-Conferences
+Conferences/Workshops
 ======
-* Jan - Jun 2018: **Erasmus+ Study**
-  * Cardiff University, Cardiff, Wales, UK
+* Apr 2023: **Workshop Mathematical Statistics**
+  * Bocconi University, Milan, Italy
+* Oct 2022: **Optimal Transport and Applications**
+  * University of Pisa, Pisa, Italy
+* May 2022: **Stochastic Games and Martingale Optimal Transport**
+  * University of Milan, Milan, Italy
 
 Summer/Winter Schools
 ======
