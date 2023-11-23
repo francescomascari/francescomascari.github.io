@@ -8,4 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-This is Francesco Mascari's home on the web!
+I am a PhD student in Statistics and Computer Science at [Bocconi University](https://www.unibocconi.it/) in Milan.
+
+# Research Interests
+- Bayesian Nonparametrics
+- Reproducing Kernel Hilbert spaces
+- Random measures
