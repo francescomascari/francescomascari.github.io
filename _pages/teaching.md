@@ -18,6 +18,8 @@ author_profile: true
   * Bocconi University, Milan, Italy
 * **Fall 2023**, Bayesian Statistical Methods (elective course for MSc programmes)
   * Bocconi University, Milan, Italy
+* **Spring 2023**, Mastering Data for Insurance
+  * SDA Bocconi University, Milan, Italy
 * **Spring 2023**, Optimization for MSc Data Science and Business Analytics
   * Bocconi University, Milan, Italy
 * **Spring 2023**, Applied Mathematics for BSc International Economics and Finance
