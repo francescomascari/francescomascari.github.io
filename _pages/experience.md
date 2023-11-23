@@ -7,6 +7,8 @@ redirect_from:
   - /resume
 ---
 
+{% include base_path %}
+
 Education
 ======
 * 2021 - ongoing: **PhD in Statistics and Computer Science**
