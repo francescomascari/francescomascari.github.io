@@ -22,28 +22,9 @@ Education
   * University of Bologna, Bologna, Italy
   * Thesis: _Linear Matrix Equations_
   * Supervisor: Prof. Valeria Simoncini
-* 2010 - 2015: **High School Diploma in Scientific Studies**, _cum laude_
-  * Liceo Scientifico Copernico, Bologna, Italy
 
 Work experience
 ======
 * Fall - winter 2020: **Research Intern**
   * École Polytechnique, Palaiseau, France
   * Supervisor: Dr. Giovanni Conforti
-
-Languages
-======
-* **Italian:** Native speaker
-* **English:** C1
-  * _IELTS Academic 7.0_, issued in 2016
-  * _Cambridge First Certificate (FCE)_, issued in 2015
-* **French:** A2
-
-IT Skills
-======
-* **Coding:** Good level
-  * R, Python, MatLab, SQL, Julia
-* **Office Suite:** Good level
-  * Word, Excel, Power Point, Access, Outlook, OneDrive
-  * _ECDL Full Standard_, issued in 2015
-* **Git:** Basic level
