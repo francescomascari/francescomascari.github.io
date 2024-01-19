@@ -10,6 +10,8 @@ redirect_from:
 
 I am currently working as a PhD student in Statistics and Computer Science at [Bocconi University](https://www.unibocconi.it/) in Milan.
 
+You can contact me at francesco.mascari@phd.unibocconi.it
+
 ## Research Interests
 - Bayesian Nonparametrics
 - Reproducing Kernel Hilbert Spaces
