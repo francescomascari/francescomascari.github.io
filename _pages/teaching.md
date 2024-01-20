@@ -36,7 +36,7 @@ author_profile: true
   * BSc Physics, University of Trento, Trento, Italy
 
 
-# Other teaching activities
+## Other teaching activities
 
 * **Math Help Desk**, Spring 2020
   * Applicant refugee students and asylum seeker, University of Trento, Trento, Italy
