@@ -14,7 +14,7 @@ author_profile: true
 {% endfor %}
 
 # Teaching assistantships
-* **Fall 2023**, Statistics - (30001)
+* **Fall 2023**, Statistics - (30001) <p style='text-align: right;'> Fall 2023 </p>
   
 * **2020**, Mathematics Tutor in Foundations of Mathematics for refugee students
   * University of Trento, Trento, Italy, 2020
