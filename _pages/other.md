@@ -9,7 +9,7 @@ author_profile: true
 
 Conferences, Workshops and Summer Schools
 ======
-* Jul 2023: [**2023 LMS Invited Lecture Series**] (https://www.maths.dur.ac.uk/users/alpar.r.meszaros/web_LMS/2023_LMS_Invited.html)
+* Jul 2023: [**2023 LMS Invited Lecture Series**](https://www.maths.dur.ac.uk/users/alpar.r.meszaros/web_LMS/2023_LMS_Invited.html)
   * Durham University, Durham, England, UK
 * Jun 2023: **Turin-Bath PhD Workshop in Applied Probability and Statistics**
   * Collegio Carlo Alberto, Turin, Italy
