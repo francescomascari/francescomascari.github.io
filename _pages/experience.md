@@ -29,5 +29,5 @@ Exchange and Visiting Programs
 ======
 * Oct 2020 - Feb 2021: **Erasmus+ Traineeship**
   * École Polytechnique, Palaiseau, France
-* Jan - Jul 2018: **Erasmus+ Traineeship**
+* Jan - Jul 2018: **Erasmus+ Study**
   * École Polytechnique, Palaiseau, France
