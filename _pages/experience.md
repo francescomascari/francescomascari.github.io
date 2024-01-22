@@ -28,6 +28,6 @@ Education
 Exchange and Visiting Programs
 ======
 * Oct 2020 - Feb 2021: **Erasmus+ Traineeship**
-  * École Polytechnique, Palaiseau, France
+  * _École Polytechnique, Palaiseau, France_
 * Jan - Jul 2018: **Erasmus+ Study**
-  * Cardiff University, Cardiff, Wales, UK
+  * _Cardiff University, Cardiff, Wales, UK_
