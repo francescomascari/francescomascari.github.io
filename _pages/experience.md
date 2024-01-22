@@ -22,13 +22,12 @@ Education
   * _University of Bologna, Bologna, Italy_
     * Thesis: _Linear Matrix Equations_
     * Supervisor: Prof. Valeria Simoncini
-* 2015 - 2018: **BSc in Mathematics**, _cum laude_
-  * _University of Bologna, Bologna, Italy_
-    * Thesis: _Linear Matrix Equations_
-    * Supervisor: Prof. Valeria Simoncini
+* 2015 - 2018: **High School Diploma in Scientific Studies**, _cum laude_
+  * _Liceo Scientifico Copernico, Bologna, Italy_
 
-Work experience
+Exchange and Visiting Programs
 ======
-* Fall - winter 2020: **Research Intern**
+* Oct 2020 - Feb 2021: **Erasmus+ Traineeship**
   * École Polytechnique, Palaiseau, France
-  * Supervisor: Dr. Giovanni Conforti
+* Jan - Jul 2018: **Erasmus+ Traineeship**
+  * École Polytechnique, Palaiseau, France
