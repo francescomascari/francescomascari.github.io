@@ -21,3 +21,6 @@ You can contact me at [francesco.mascari@phd.unibocconi.it](mailto:francesco.mas
 - Reproducing Kernel Hilbert Spaces
 - Wasserstein Distance
 - Random Measures
+
+## Ongoing research projects
+- **Measuring Dependence in Partial Exchangeable Setting with Reproducing Kernel Hilbert Spaces**, with M. Catalano, H. Lavenant
