@@ -28,9 +28,9 @@ Conferences, Workshops and Summer Schools
 
 Volunteering
 ======
-* 2022 - ongoing: **PhD representative** in the Department of Decision Sciences
+* 2022 - ongoing: **PhD Representative** in the Department of Decision Sciences
   * _Bocconi University, Milan, Italy_
-* 2016 - 2018: **Student representative** in the Department of Mathematics
+* 2016 - 2018: **Student Representative** in the Department of Mathematics
   * _University of Bologna, Bologna, Italy_
-* 2013 - 2014: **Student representative** in the School Board
+* 2013 - 2014: **Student Representative** in the School Board
   * _Liceo Scientifico Copernico, Bologna, Italy_
