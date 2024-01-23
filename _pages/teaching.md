@@ -37,6 +37,7 @@ author_profile: true
 
 
 ## Other teaching activities
-
-* **Math Help Desk**, Spring 2020
-  * Applicant refugee students and asylum seeker, _University of Trento, Trento, Italy_
+* **Summer School Teacher**, Summer 2020
+  * Bocconi Summer School for High School Students - Data Science Lab, _University of Trento, Trento, Italy_
+* **Math Help Desk** for Applicant Refugee Students and Asylum Seekers, Spring 2020
+  * _University of Trento, Trento, Italy_
