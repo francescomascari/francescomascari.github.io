@@ -13,7 +13,8 @@ Education
 ===
 * 2021 - ongoing: **PhD in Statistics and Computer Science**
   * _Bocconi University, Milan, Italy_
-    * **Advisors:** Prof. Marta Catalano, Prof. Hugo Lavenant
+    * **Advisor:** Prof. Hugo Lavenant
+    * **Co-advisor:** Prof. Marta Catalano
 * 2018 - 2021: **MSc in Mathematics for Life and Data Sciences**, _cum laude_
   * _University of Trento, Trento, Italy_
     * **Thesis:** _A Micro-macro Connection: The Valuable Relation between Large Deviations for Diffusion Processes and Wasserstein Gradient Flows_
