@@ -9,6 +9,14 @@ author_profile: true
 
 Conferences, Workshops and Summer Schools
 ======
+* Jun 2024: [**2024 ISBA World Meeting**](https://www.unive.it/web/en/2208/home)
+  * _Ca' Foscari University of Venice, Venice, Italy_
+* Jun 2024: [**BAYSM2024**](https://events.stat.uconn.edu/BAYSM2024/)
+  * _Ca' Foscari University of Venice, Venice, Italy_
+* Jun 2024: [**4th Italian Meeting on Probability and Mathematical Statistics**](https://probabilityrome2024.it/)
+  * _Sapienza University of Rome, Rome, Italy_
+* Jun 2024: [**Summer school on Optimal Transport, Stochastic Analysis and Applications to Machine Learning**](https://sites.google.com/view/ki-saarc-optimal-transport/home)
+  * _KAIST, Daejeon, South Korea_
 * Jul 2023: [**2023 LMS Invited Lecture Series**](https://www.maths.dur.ac.uk/users/alpar.r.meszaros/web_LMS/2023_LMS_Invited.html)
   * _Durham University, Durham, England, UK_
 * Jun 2023: [**Turin-Bath PhD Workshop in Applied Probability and Statistics**](https://www.carloalberto.org/event/turin-bath-phd-workshop-in-applied-probability-and-statistics/)
