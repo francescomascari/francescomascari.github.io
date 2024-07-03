@@ -16,6 +16,14 @@ author_profile: true
 
 ## Teaching assistantships
 
+* **Applied Stochastic Processes - (30515)**, Spring 2024
+  * BSc Economics, Management and Computer Science, _Bocconi University, Milan, Italy_
+* **Foundations of Data Science - (30607)**, Spring 2024
+  * BSc Economics, Management and Computer Science, _Bocconi University, Milan, Italy_
+* **Optimization - (20603)**, Spring 2024
+  * MSc Data Science and Business Analytics, _Bocconi University, Milan, Italy_
+* **Mathematics - module 2 (applied) - (30063)**, Spring 2024
+  * BSc Economia aziendale e management, _Bocconi University, Milan, Italy_
 * **Statistics - (30001)**, Fall 2023
   * BSc International Economics and Finance, _Bocconi University, Milan, Italy_
 * **Bayesian Statistical Methods - (20231)**, Fall 2023
@@ -37,7 +45,9 @@ author_profile: true
 
 
 ## Other teaching activities
-* **Summer School Teacher**, Summer 2020
-  * Bocconi Summer School for High School Students - Data Science Lab, _University of Trento, Trento, Italy_
+* **Summer School Teacher**, Summer 2024
+  * Bocconi Knowledge Week for High School Students, _Bocconi University, Milan, Italy_
+* **Summer School Teacher**, Summer 2023
+  * Bocconi Summer School for High School Students - Data Science Lab, _Bocconi University, Milan, Italy_
 * **Math Help Desk** for Applicant Refugee Students and Asylum Seekers, Spring 2020
   * _University of Trento, Trento, Italy_
