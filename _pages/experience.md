@@ -9,8 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-===
+Past Experiences
+========
+
+
+## Education
 * 2021 - ongoing: **PhD in Statistics and Computer Science**
   * _Bocconi University, Milan, Italy_
     * **Advisor:** Prof. Hugo Lavenant
@@ -26,8 +29,7 @@ Education
 * 2015 - 2018: **High School Diploma in Scientific Studies**, _cum laude_
   * _Liceo Scientifico Copernico, Bologna, Italy_
 
-Exchange and Visiting Programs
-======
+## Exchange and Visiting Programs
 * Oct 2020 - Feb 2021: **Erasmus+ Traineeship**
   * _École Polytechnique, Palaiseau, France_
 * Jan - Jul 2018: **Erasmus+ Study**
