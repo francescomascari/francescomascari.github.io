@@ -9,7 +9,7 @@ author_profile: true
 
 Conferences, Workshops and Summer Schools
 ======
-* Jun 2024: [**2024 ISBA World Meeting**](https://www.unive.it/web/en/2208/home)
+* Jul 2024: [**2024 ISBA World Meeting**](https://www.unive.it/web/en/2208/home)
   * _Ca' Foscari University of Venice, Venice, Italy_
 * Jun 2024: [**BAYSM2024**](https://events.stat.uconn.edu/BAYSM2024/)
   * _Ca' Foscari University of Venice, Venice, Italy_
