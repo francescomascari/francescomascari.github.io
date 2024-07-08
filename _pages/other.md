@@ -8,9 +8,9 @@ author_profile: true
 {% include base_path %}
 
 Other Activities
-======
+========
 
-
+## Teaching assistantships
 * 2022 - ongoing: **PhD Representative** in the PhD Board
   * _Department of Decision Sciences, Bocconi University, Milan, Italy_
 * 2016 - 2018: **Student Representative** in the Department Council
