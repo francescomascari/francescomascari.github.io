@@ -8,7 +8,8 @@ author_profile: true
 {% include base_path %}
 
 Conferences, Workshops and Summer Schools
-======
+========
+
 * Jul 2024: [**2024 ISBA World Meeting**](https://www.unive.it/web/en/2208/home)
   * _Ca' Foscari University of Venice, Venice, Italy_
   * **Best Poster Award** for _Measuring Kernel under Partial Exchangeability with Reproducing Kernel Hilbert Spaces_
