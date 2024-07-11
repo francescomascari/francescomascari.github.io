@@ -22,7 +22,7 @@ Teaching
 * **Optimization - (20603)**, Spring 2024
   * MSc Data Science and Business Analytics, _Bocconi University_
 * **Mathematics - module 2 (applied) - (30063)**, Spring 2024
-  * BSc Economia aziendale e management, _Bocconi University_
+  * BSc Economia Aziendale e Management, _Bocconi University_
 * **Statistics - (30001)**, Fall 2023
   * BSc International Economics and Finance, _Bocconi University_
 * **Bayesian Statistical Methods - (20231)**, Fall 2023
