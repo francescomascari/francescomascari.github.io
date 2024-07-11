@@ -29,7 +29,7 @@ Conferences, Workshops and Summer Schools
   * _University of Pisa, Pisa, Italy_
 * Jul 2022: [**Mathematics of Machine Learning**](https://www.smi-math.unipr.it/past-courses/cortona/summer-graduate-school-mathematics-of-machine-learning/103/)
   * _Scuola Matematica Interuniversitaria, Cortona, Italy_
-* Jul 2022: **Bocconi Summer School in Advanced Statistics & Probability** in Random Structures and Combinatorial Statistics
+* Jul 2022: [**Bocconi Summer School in Advanced Statistics & Probability**](https://lakecomoschool.org/wp-content/uploads/2023/12/BOCCONI2022.pdf) in Random Structures and Combinatorial Statistics
   * _Lake Como School of Advanced Studies, Como, Italy_
 * May 2022: [**Stochastic Games and Martingale Optimal Transport**](https://sites.google.com/view/sgandmot)
   * _University of Milan, Milan, Italy_
