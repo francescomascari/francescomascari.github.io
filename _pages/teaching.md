@@ -44,9 +44,9 @@ Teaching
 
 
 ## Other teaching activities
-* **Summer School Teacher**, Summer 2024
-  * Bocconi Knowledge Week for High School Students, _Bocconi University, Milan, Italy_
-* **Summer School Teacher**, Summer 2023
-  * Bocconi Summer School for High School Students - Data Science Lab, _Bocconi University, Milan, Italy_
+* **Workshop Instructor**, Summer 2024
+  * Bocconi Knowledge Week, _Bocconi University, Milan, Italy_
+* **Workshop Instructor**, Summer 2023
+  * Data Science Lab, _Bocconi University, Milan, Italy_
 * **Math Help Desk** for Applicant Refugee Students and Asylum Seekers, Spring 2020
   * _University of Trento, Trento, Italy_
