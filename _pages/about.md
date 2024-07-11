@@ -11,7 +11,7 @@ redirect_from:
 I am currently working as a PhD student in Statistics and Computer Science at [Bocconi University](https://www.unibocconi.it/) in Milan.
 
 The present webpage can be intended as a digital version of my academic CV. Feel free to browse it!
-Here is an analog version of it: [CV](https://github.com/francescomascari/francescomascari.github.io/files/14021128/Mascari_CV_edu.pdf)
+Here is an analog version of it: [academic CV](https://github.com/user-attachments/files/16173440/Mascari_CV_edu.pdf)
 
 
 You can contact me at [francesco.mascari@phd.unibocconi.it](mailto:francesco.mascari@phd.unibocconi.it).
