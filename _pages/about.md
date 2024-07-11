@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am currently working as a PhD student in Statistics and Computer Science at [Bocconi University](https://www.unibocconi.it/) in Milan. My PhD Advisor is [Hugo Lavenant](https://hugolav.github.io/) (Bocconi University), myy PhD Co-Advisor is [Marta Catalano](https://martacatalano.github.io/) (LUISS University).
+I am currently working as a PhD student in Statistics and Computer Science at [Bocconi University](https://www.unibocconi.it/) in Milan.
+My PhD Advisor is [Hugo Lavenant](https://hugolav.github.io/) (Bocconi University).
+My PhD Co-Advisor is [Marta Catalano](https://martacatalano.github.io/) (LUISS University).
 
 The present webpage can be intended as a digital version of my academic CV. Feel free to browse it!
 Here is an analog version of it: [academic CV](https://github.com/user-attachments/files/16173440/Mascari_CV_edu.pdf)
