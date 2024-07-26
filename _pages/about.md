@@ -13,7 +13,7 @@ My PhD Advisor is [Hugo Lavenant](https://hugolav.github.io/) (Bocconi Universit
 My PhD Co-Advisor is [Marta Catalano](https://martacatalano.github.io/) (LUISS University).
 
 
-The present webpage can be intended as a digital version of my academic CV. Feel free to browse it!
+This webpage can be intended as a digital version of my academic CV. Feel free to browse it!
 Here is an analog version of it: [academic CV](https://github.com/user-attachments/files/16173440/Mascari_CV_edu.pdf)
 
 
