@@ -30,6 +30,8 @@ Past Experience
   * _Liceo Scientifico Copernico, Bologna, Italy_
 
 ## Exchange and Visiting Programs
+* Oct 2024 - ongoing: **Visiting period**
+  * _LUISS University, Rome, Italy_
 * Oct 2020 - Feb 2021: **Erasmus+ Traineeship**
   * _École Polytechnique, Palaiseau, France_
 * Jan - Jul 2018: **Erasmus+ Study**
