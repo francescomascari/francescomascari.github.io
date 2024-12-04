@@ -23,7 +23,7 @@ Posters
   * _Ca' Foscari University of Venice, Venice, Italy_
 
 
-Other Conferences, Workshops and Summer Schools
+Other Conferences, Workshops and Schools
 ========
 * Jun 2024: [**Summer School on Optimal Transport, Stochastic Analysis and Applications to Machine Learning**](https://sites.google.com/view/ki-saarc-optimal-transport/home)
   * _KAIST, Daejeon, South Korea_
