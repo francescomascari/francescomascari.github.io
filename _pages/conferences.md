@@ -7,14 +7,14 @@ author_profile: true
 
 {% include base_path %}
 
-Invited Talks
-========
+# Conferences, Workshops and Schools
+
+## Invited Talks
 * Jun 2024: _Measuring Dependence under Partial Exchangeability with Reproducing Kernel Hilbert Spaces_
   * [**4th Italian Meeting on Probability and Mathematical Statistics**](https://probabilityrome2024.it/)
   * _Sapienza University of Rome, Rome, Italy_
 
-Posters
-========
+## Posters
 * Jul 2024: _Measuring Dependence under Partial Exchangeability with Reproducing Kernel Hilbert Spaces_ **Best Poster Award**
   * [**2024 ISBA World Meeting**](https://www.unive.it/web/en/2208/home)
   * _Ca' Foscari University of Venice, Venice, Italy_
@@ -23,7 +23,7 @@ Posters
   * _Ca' Foscari University of Venice, Venice, Italy_
 
 
-Other Conferences, Workshops and Schools
+## [Other Conferences, Workshops and Schools](conference_other)
 ========
 * Jun 2024: [**Summer School on Optimal Transport, Stochastic Analysis and Applications to Machine Learning**](https://sites.google.com/view/ki-saarc-optimal-transport/home)
   * _KAIST, Daejeon, South Korea_
