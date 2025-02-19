@@ -1,13 +1,13 @@
 ---
-layout: archive
-title: " "
 permalink: /conferences/conferences_other
+layout: archive
+title: "Other Conferences, Workshops, and Schools"
+excerpt: "Other Conferences, Workshops, and Schools"
 author_profile: true
 ---
 
 {% include base_path %}
 
-# Other Conferences, Workshops, and Schools
 * Jun 2024: [**Summer School on Optimal Transport, Stochastic Analysis and Applications to Machine Learning**](https://sites.google.com/view/ki-saarc-optimal-transport/home)
   * _KAIST, Daejeon, South Korea_
 * Jul 2023: [**2023 LMS Invited Lecture Series**](https://www.maths.dur.ac.uk/users/alpar.r.meszaros/web_LMS/2023_LMS_Invited.html)
