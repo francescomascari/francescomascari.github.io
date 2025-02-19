@@ -5,6 +5,7 @@ permalink: /teaching/teaching_other
 author_profile: true
 ---
 
+{% include base_path %}
 
 # Other Teaching Activities
 * **Workshop Instructor**, Summer 2024
