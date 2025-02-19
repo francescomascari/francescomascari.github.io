@@ -1,7 +1,8 @@
 ---
-title: " "
-layout: archive
 permalink: /teaching/
+layout: archive
+title: "Teaching"
+excerpt: "Teaching"
 author_profile: true
 ---
 
