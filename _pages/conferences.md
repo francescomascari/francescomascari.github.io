@@ -1,8 +1,8 @@
 ---
-layout: archive
-title: "Conferences, Workshops, and Schools
-excerpt: "Conferences, Workshops, and Schools"
 permalink: /conferences/
+layout: archive
+title: "Conferences, Workshops, and Schools"
+excerpt: "Conferences, Workshops, and Schools"
 author_profile: true
 ---
 
