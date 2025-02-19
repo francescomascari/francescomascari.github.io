@@ -1,7 +1,8 @@
 ---
-layout: archive
-title: " "
 permalink: /experience/experience_other
+layout: archive
+title: "Other Activities
+excerpt: "Other Activities"
 author_profile: true
 redirect_from:
   - /resume/experience_other
