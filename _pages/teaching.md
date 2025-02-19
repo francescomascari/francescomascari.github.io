@@ -17,4 +17,4 @@ author_profile: true
 ## [Teaching Assistantships](https://francescomascari.github.io/teaching/teaching_assistantships)
 
 
-## [Other Teaching Activities](https://francescomascari.github.io/teaching/other_teaching_activities)
+## [Other Teaching Activities](https://francescomascari.github.io/teaching/teaching_other)
