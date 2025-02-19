@@ -35,4 +35,4 @@ redirect_from:
   * _Cardiff University, Cardiff, Wales, UK_
 
 
-## [Other activities](https://francescomascari.github.io/experience/experience_other)
+## [Other Activities](https://francescomascari.github.io/experience/experience_other)
