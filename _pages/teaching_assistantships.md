@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-# [Teaching assistantships](https://francescomascari.github.io/teaching/teaching_assistantships)
+# Teaching assistantships
 * **Applied Stochastic Processes - (30515)**, Spring 2024
   * BSc Economics, Management and Computer Science, _Bocconi University_
 * **Foundations of Data Science - (30607)**, Spring 2024
