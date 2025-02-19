@@ -12,7 +12,7 @@ author_profile: true
 {% endfor %}
 
 
-# [Teaching assistantships](https://francescomascari.github.io/teaching/teaching_assistantships)
+## [Teaching Assistantships](https://francescomascari.github.io/teaching/teaching_assistantships)
 * **Applied Stochastic Processes - (30515)**, Spring 2024
   * BSc Economics, Management and Computer Science, _Bocconi University_
 * **Foundations of Data Science - (30607)**, Spring 2024
@@ -41,7 +41,7 @@ author_profile: true
   * BSc Physics, _University of Trento_
 
 
-## Other teaching activities
+## [Other Teaching Activities](https://francescomascari.github.io/teaching/other_teaching_activities)
 * **Workshop Instructor**, Summer 2024
   * Bocconi Knowledge Week, _Bocconi University, Milan, Italy_
 * **Workshop Instructor**, Summer 2023
