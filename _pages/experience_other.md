@@ -10,8 +10,6 @@ redirect_from:
 
 {% include base_path %}
 
-# Other activities
-
 ## Volunteering
 * 2022 - ongoing: **PhD Representative** in the PhD Board
   * _Department of Decision Sciences, Bocconi University, Milan, Italy_
