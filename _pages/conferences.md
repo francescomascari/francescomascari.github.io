@@ -23,8 +23,7 @@ author_profile: true
   * _Ca' Foscari University of Venice, Venice, Italy_
 
 
-## [Other Conferences, Workshops and Schools](conference_other)
-========
+## [Other Conferences, Workshops and Schools](https://francescomascari.github.io/conferences/conferences_other)
 * Jun 2024: [**Summer School on Optimal Transport, Stochastic Analysis and Applications to Machine Learning**](https://sites.google.com/view/ki-saarc-optimal-transport/home)
   * _KAIST, Daejeon, South Korea_
 * Jul 2023: [**2023 LMS Invited Lecture Series**](https://www.maths.dur.ac.uk/users/alpar.r.meszaros/web_LMS/2023_LMS_Invited.html)
