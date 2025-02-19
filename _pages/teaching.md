@@ -7,14 +7,12 @@ author_profile: true
 
 {% include base_path %}
 
-Teaching
-========
 {% for post in site.teaching reversed %}
   {% include archive-single.html %}
 {% endfor %}
 
 
-## Teaching assistantships
+# Teaching assistantships
 * **Applied Stochastic Processes - (30515)**, Spring 2024
   * BSc Economics, Management and Computer Science, _Bocconi University_
 * **Foundations of Data Science - (30607)**, Spring 2024
