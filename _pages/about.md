@@ -27,5 +27,5 @@ You can contact me at [francesco.mascari@phd.unibocconi.it](mailto:francesco.mas
 - Random Measures
 
 
-## Ongoing research projects
+## Ongoing Research Projects
 - **Measuring Dependence under Partial Exchangeability with Reproducing Kernel Hilbert Spaces**, with M. Catalano and H. Lavenant
