@@ -1,7 +1,7 @@
 ---
 permalink: /experience/experience_other
 layout: archive
-title: "Other Activities
+title: "Other Activities"
 excerpt: "Other Activities"
 author_profile: true
 redirect_from:
