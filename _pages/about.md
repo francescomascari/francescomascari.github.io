@@ -14,7 +14,7 @@ My PhD Co-Advisor is [Marta Catalano](https://martacatalano.github.io/) (LUISS U
 
 
 This webpage can be intended as a digital version of my academic CV. Feel free to browse it!\
-Here is an analog version of it: [academic CV](https://francescomascari.github.io/files/Mascari_CV_edu.pdf)
+Here is an analog version of it: [academic CV](https://francescomascari.github.io/files/Mascari_CV_edu.pdf).
 
 
 You can contact me at [francesco.mascari@phd.unibocconi.it](mailto:francesco.mascari@phd.unibocconi.it).
