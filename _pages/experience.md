@@ -38,4 +38,4 @@ Past Experience
   * _Cardiff University, Cardiff, Wales, UK_
 
 
-## Other activities
+## [Other activities](https://francescomascari.github.io/conferences/experience_other)
