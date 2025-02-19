@@ -10,10 +10,6 @@ redirect_from:
 
 {% include base_path %}
 
-Past Experience
-========
-
-
 ## Education
 * 2021 - ongoing: **PhD in Statistics and Computer Science**
   * _Bocconi University, Milan, Italy_
