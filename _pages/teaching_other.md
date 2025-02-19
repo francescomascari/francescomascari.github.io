@@ -1,13 +1,13 @@
 ---
-title: " "
-layout: archive
 permalink: /teaching/teaching_other
+layout: archive
+title: "Other Teaching Activities"
+excerpt: "Other Teaching Activities"
 author_profile: true
 ---
 
 {% include base_path %}
 
-# Other Teaching Activities
 * **Workshop Instructor**, Summer 2024
   * Bocconi Knowledge Week, _Bocconi University, Milan, Italy_
 * **Workshop Instructor**, Summer 2023
