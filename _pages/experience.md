@@ -36,3 +36,6 @@ Past Experience
   * _École Polytechnique, Palaiseau, France_
 * Jan - Jul 2018: **Erasmus+ Study**
   * _Cardiff University, Cardiff, Wales, UK_
+
+
+## Other activities
