@@ -1,13 +1,12 @@
 ---
 layout: archive
-title: " "
+title: "Conferences, Workshops, and Schools
+excerpt: "Conferences, Workshops, and Schools"
 permalink: /conferences/
 author_profile: true
 ---
 
 {% include base_path %}
-
-# Conferences, Workshops, and Schools
 
 ## Invited Talks
 * Jun 2024: _Measuring Dependence under Partial Exchangeability with Reproducing Kernel Hilbert Spaces_
