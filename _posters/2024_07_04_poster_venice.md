@@ -7,5 +7,5 @@ date: 2024-07-04
 location: "Rome, Italy"
 ---
 
-**Best Poster Award**
+**Best Poster Award**\
 [**2024 ISBA World Meeting**](https://www.unive.it/web/en/2208/home)
