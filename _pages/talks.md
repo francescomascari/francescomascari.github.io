@@ -14,6 +14,7 @@ author_profile: true
   {% include archive-single-talk.html %}
 {% endfor %}
 
+---
 
 # Posters
 
