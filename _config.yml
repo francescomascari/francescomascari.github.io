@@ -290,7 +290,7 @@ defaults:
       path: ""
       type: posters
     values:
-      layout: talk
+      layout: poster
       author_profile: true
       share: false
 
