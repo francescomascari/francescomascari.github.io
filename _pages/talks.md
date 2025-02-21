@@ -16,3 +16,7 @@ author_profile: true
 
 
 # Posters
+
+{% for post in site.posters reversed %}
+  {% include archive-single-poster.html %}
+{% endfor %}
