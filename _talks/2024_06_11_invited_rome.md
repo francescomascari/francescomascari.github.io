@@ -1,8 +1,8 @@
 ---
 title: "Measuring Dependence under Partial Exchangeability with Reproducing Kernel Hilbert Spaces"
 collection: talks
-type: "Invited Talk"
 permalink: /talks/2024_06_11_invited_rome
+type: "Invited Talk"
 venue: "Sapienza University of Rome"
 date: 2024-06-11
 location: "Rome, Italy"
