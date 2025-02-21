@@ -11,14 +11,14 @@ author_profile: true
 
 {% endif %}
 
-# Invited Talks
+# Talks
 
 {% for post in site.talks reversed %}
   {% include archive-single-talk.html %}
 {% endfor %}
 
-# Contributed Talks
+# Posters
 
-{% for post in site.talks reversed %}
+{% for post in site.posters reversed %}
   {% include archive-single-talk.html %}
 {% endfor %}
