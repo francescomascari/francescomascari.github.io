@@ -282,7 +282,7 @@ defaults:
       path: ""
       type: talks
     values:
-      layout: talk
+      layout: single
       author_profile: true
       share: false
   # _posters
@@ -290,7 +290,7 @@ defaults:
       path: ""
       type: posters
     values:
-      layout: poster
+      layout: single
       author_profile: true
       share: false
 
