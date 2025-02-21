@@ -1,20 +1,12 @@
 ---
-title: "Teaching experience 1"
+title: "Quantitative Methods for Social Sciences – Module 2 – Data Analytics (30673)"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/2025_Bocconi30673
 venue: "Bocconi University"
 date: 2025-02-01
 location: "Milan Italy"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+- [Page of the course](https://didattica.unibocconi.it/ts/tsn_anteprima.php?cod_ins=30673&anno=2025)
+- Main Instructor: Prof. Omiros Papaspiliopoulos
