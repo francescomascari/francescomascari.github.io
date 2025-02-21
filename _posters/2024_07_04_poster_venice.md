@@ -1,10 +1,11 @@
 ---
 title: "Measuring Dependence under Partial Exchangeability with Reproducing Kernel Hilbert Spaces"
 collection: talks
-permalink: /talks/2024_06_11_invited_rome
+permalink: /talks/2024_07_04_invited_rome
 venue: "Sapienza University of Rome"
-date: 2024-06-11
+date: 2024-07-04
 location: "Rome, Italy"
 ---
 
-[**4th Italian Meeting on Probability and Mathematical Statistics**](https://probabilityrome2024.it/)
+**Best Poster Award**
+[**2024 ISBA World Meeting**](https://www.unive.it/web/en/2208/home)
