@@ -20,4 +20,4 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-# [Other Conferences, Workshops, and Schools](https://francescomascari.github.io/conferences/conferences_other)
+# [Other Conferences, Workshops, and Schools](https://francescomascari.github.io/conferences/talks_other)
