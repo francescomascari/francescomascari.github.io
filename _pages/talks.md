@@ -1,12 +1,12 @@
 ---
+permalink: /talks/
 layout: archive
 title: "Talks, Posters, and Conferences"
-permalink: /talks/
+excerpt: "Talks, Posters, and Conferences"
 author_profile: true
 ---
 
 {% include base_path %}
-
 
 # Talks
 
@@ -14,7 +14,6 @@ author_profile: true
   {% include archive-single-talk.html %}
 {% endfor %}
 
----
 
 # Posters
 
