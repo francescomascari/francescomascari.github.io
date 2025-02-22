@@ -1,8 +1,8 @@
 ---
 permalink: /teaching/teaching_assistantships
 layout: archive
-title: "Teaching assistantships"
-excerpt: "Teaching assistantships"
+title: "Teaching Assistantships"
+excerpt: "Teaching Assistantships"
 author_profile: true
 ---
 
