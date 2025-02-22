@@ -1,5 +1,5 @@
 ---
-permalink: /conferences/conferences_other
+permalink: /talks/talks_other
 layout: archive
 title: "Other Conferences, Workshops, and Schools"
 excerpt: "Other Conferences, Workshops, and Schools"
