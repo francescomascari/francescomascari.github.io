@@ -1,5 +1,6 @@
 ---
 title: "Measuring Dependence under Partial Exchangeability with Reproducing Kernel Hilbert Spaces"
+excerpt: [**4th Italian Meeting on Probability and Mathematical Statistics**](https://probabilityrome2024.it/)
 collection: talks
 permalink: /talks/2024_06_11_invited_Rome
 type: "Invited Talk"
