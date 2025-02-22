@@ -10,7 +10,8 @@ redirect_from:
 
 {% include base_path %}
 
-## Education
+---
+# Education
 * 2021 - ongoing: **PhD in Statistics and Computer Science**
   * _Bocconi University, Milan, Italy_
     * **Advisor:** Prof. Hugo Lavenant
@@ -26,7 +27,8 @@ redirect_from:
 * 2015 - 2018: **High School Diploma in Scientific Studies**, _cum laude_
   * _Liceo Scientifico Copernico, Bologna, Italy_
 
-## Exchange and Visiting Programs
+---
+# Exchange and Visiting Programs
 * Oct 2024 - Jan 2025: **Visiting Programme**
   * _LUISS University, Rome, Italy_
 * Oct 2020 - Feb 2021: **Erasmus+ Traineeship**
@@ -34,5 +36,13 @@ redirect_from:
 * Jan - Jul 2018: **Erasmus+ Study**
   * _Cardiff University, Cardiff, Wales, UK_
 
-
-## [Other Activities](https://francescomascari.github.io/experience/experience_other)
+---
+# Volunteering
+* 2022 - ongoing: **PhD Representative** in the PhD Board
+  * _Department of Decision Sciences, Bocconi University, Milan, Italy_
+* 2016 - 2018: **Student Representative** in the Department Council
+  * _Department of Mathematics, University of Bologna, Bologna, Italy_
+* 2016 - 2018: **Student Representative** in the BSc Board,
+  * _BSc Mathematics, University of Bologna, Bologna, Italy_
+* 2013 - 2014: **Student Representative** in the School Board
+  * _Liceo Scientifico Copernico, Bologna, Italy_
