@@ -23,4 +23,4 @@ author_profile: true
 {% endfor %}
 
 ---
-# [Other Conferences, Workshops, and Schools](https://francescomascari.github.io/conferences/talks_other)
+# [Other Conferences, Workshops, and Schools](https://francescomascari.github.io/talks/talks_other)
