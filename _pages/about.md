@@ -13,7 +13,7 @@ My PhD Advisor is [**Hugo Lavenant**](https://hugolav.github.io/) (Bocconi Unive
 My PhD Co-Advisor is [**Marta Catalano**](https://martacatalano.github.io/) (LUISS University).
 
 This webpage can be intended as a digital version of my academic CV. Feel free to browse it!\
-Here is an analog version of it: [**academic CV**](https://francescomascari.github.io/files/Mascari_CV_edu.pdf).
+[**Here**](https://francescomascari.github.io/files/Mascari_CV_edu.pdf) is an analog version of it.
 
 You can contact me at [**francesco.mascari@phd.unibocconi.it**](mailto:francesco.mascari@phd.unibocconi.it).
 
