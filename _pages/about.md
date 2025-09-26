@@ -23,5 +23,8 @@ You can contact me at [**francesco.mascari@phd.unibocconi.it**](mailto:francesco
 - Wasserstein Distance
 - Random Measures
 
+## Preprints
+- **Measuring Partial Exchangeability with Reproducing Kernel Hilbert Spaces** ([ArXiv](https://arxiv.org/abs/2509.20221)), with M. Catalano and H. Lavenant
+
 ## Ongoing Research Projects
-- **Measuring Partial Exchangeability with Reproducing Kernel Hilbert Spaces**, with M. Catalano and H. Lavenant
+- **Hilbert-Based Correlation Indices for Distributional Data**, with M. Catalano and H. Lavenant
